@@ -48,10 +48,6 @@ class EmployeeController extends Controller
         }
 
         return redirect()->route('employee_home');
-
-        // return view('layouts.employee', [
-        //     'employee' => $employee
-        // ]);
     }
 
     public function edit($id)

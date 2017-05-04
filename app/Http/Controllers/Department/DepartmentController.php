@@ -28,13 +28,6 @@ class DepartmentController extends Controller
         Department::create($request->all());
 
         return redirect()->route('department_home');
-
-        // $department = Department::create($request->all());
-
-        // return view('layouts.department', [
-        // 	'department' => $department
-        // ]);	
-
     }
 
     public function edit($id)
