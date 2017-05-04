@@ -1,0 +1,66 @@
+.employee-list {
+	margin-top: 90px;
+}
+
+.delete-button {
+	outline: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.edit {
+	display: inline-block;
+}
+
+.delete-form {
+	display: inline-block;
+}
+
+/*.form-group {
+	position: relative;
+}
+
+.error {
+	-webkit-animation-name: animateErr;
+	-webkit-animation-duration: 0.4s;
+	animation-name: animateErr;
+	animation-duration: 0.4s;
+	position: absolute;
+	line-height: 14px;
+	left: 0px;
+	top: -8px;
+	padding: 1px 3px;
+	font-size: 13px;
+	color: white;
+	background-color: rgba(153, 0, 0, 0.66);
+	border-radius: 5px;
+	display: block;
+}
+
+@keyframes animateErr {
+	0% {
+		top: 0;
+		opacity: 0;
+	}
+	100% {
+		top: -8px;
+		opacity: 1;
+	}
+}
+
+#departments-table tr {
+	-webkit-animation-name: trAdd;
+	-webkit-animation-duration: 0.7s;
+	animation-name: trAdd;
+	animation-duration: 0.7s;
+}
+
+@keyframes trAdd {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}*/
